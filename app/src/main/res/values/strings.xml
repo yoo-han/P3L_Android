@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AJRMobile</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_logoutDriver">Logout Driver</string>
+    <string name="btn_logoutPegawai">Logout Pegawai</string>
+    <string name="btn_logoutCustomer">Logout Customer</string>
+    <string name="dashboard"><u>Dashboard Menu</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

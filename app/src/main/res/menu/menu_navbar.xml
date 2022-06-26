@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_beranda"
+        android:title="Dashboard"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/menu_profil"
+        android:title="Profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_profil"/>
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_available"
+        android:title="Available"/>
+    <item
+        android:id="@+id/menu_notAvailable"
+        android:title="Not Available"/>
+</menu>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/drawable/ic_address.xml" value="0.23489583333333333" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/activity_container.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/activity_customer.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/activity_customer_transaction.xml" value="0.21875" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/activity_driver.xml" value="0.16944444444444445" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/activity_driver_transaction.xml" value="0.21875" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/activity_mobil.xml" value="0.25" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/activity_pegawai.xml" value="0.38697916666666665" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/activity_profile.xml" value="0.21927083333333333" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/activity_promo.xml" value="0.21770334928229665" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/dropdrown_menu.xml" value="0.21875" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/fragment_customer_dashboard.xml" value="0.21875" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/fragment_driver_dashboard.xml" value="0.1398148148148148" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/fragment_pegawai_dashboard.xml" value="0.25" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/fragment_promo.xml" value="0.2" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/layout_loading.xml" value="0.38697916666666665" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/pegawai.xml" value="0.1" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/rv_mobil.xml" value="0.33" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/rv_promo.xml" value="0.38697916666666665" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/rv_reservasicustomer.xml" value="0.33" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/layout/rv_reservasidriver.xml" value="0.33" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/menu/customer_menu_navbar.xml" value="0.21510416666666668" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/menu/menu_navbar.xml" value="0.21145833333333333" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/menu/status_menu.xml" value="0.21875" />
+        <entry key="..\:/Kuliah/Semester 6/P3L/Project/TOLONG FIX Y/AJRMobile/app/src/main/res/xml/provider_paths.xml" value="0.38697916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
